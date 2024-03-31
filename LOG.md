@@ -41,3 +41,5 @@ Each numbered entry below is a round with the AI.
 9. Asked AI to update the styling of the Popup so that the element inside it is square.
     - Bot failed to provide the correct code after 3 interactions.
     - Human added a new div to wrap Element and set the div's width statically.
+
+10. Human re-added missing overlay for Popup.
