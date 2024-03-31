@@ -1,4 +1,4 @@
-[![pages-build-deployment](https://github.com/dcbartlett/periodic_table_AI/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/dcbartlett/periodic_table_AI/actions/workflows/pages/pages-build-deployment)
+[![React App Deployment](https://github.com/dcbartlett/periodic_table_AI/actions/workflows/deploy-react-app.yml/badge.svg)](https://github.com/dcbartlett/periodic_table_AI/actions/workflows/deploy-react-app.yml)
 # Periodic Table - AI Generated
 
 This is a proof of concept to test AI's ability to produce production-like code.  A containing a log of what the AI generated and what human steps were taken can be found in the [LOG](LOG.md).
