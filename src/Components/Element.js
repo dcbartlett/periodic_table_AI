@@ -6,15 +6,15 @@ const Element = ({ element, onClick }) => {
       style={{
         display: 'inline-block',
         width: '100px',
-        height: '100px',
+        height: '140px', // Adjusted height to accommodate symbol
         border: '1px solid black',
         textAlign: 'center',
-        lineHeight: '100px',
         cursor: 'pointer',
       }}
       onClick={() => onClick(element)}
     >
-      {element.name}
+      <div style={{ marginBottom: '10px' }}>{element.symbol}</div> {/* Symbol */}
+      <div>{element.name}</div> {/* Name */}
     </div>
   );
 };
