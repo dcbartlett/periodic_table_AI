@@ -30,7 +30,10 @@ Each numbered entry below is a round with the AI.
     - Human copied output into the correct folder structure.
 
 7. Asked AI to add the Element component to the Popup component so that the Element is shown to the left of the current content in the popup.
-    - Bot updated the Element component accordingly.
+    - Bot updated the Popup component accordingly.
     - Human copied output into the correct folder structure.
 
-
+8. Asked AI to update the styling of the Element so that it is square.
+    - Bot updated the Element component accordingly.
+    - Human copied output into the correct folder structure.
+    - Human removed line-height due to visual issue

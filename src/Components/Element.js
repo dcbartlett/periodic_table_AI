@@ -8,7 +8,6 @@ const Element = ({ element, onClick }) => {
         height: '100px', // Updated height to match width
         border: '1px solid black',
         textAlign: 'center',
-        lineHeight: '100px', // Center content vertically
         cursor: 'pointer',
       }}
       onClick={() => onClick(element)}
