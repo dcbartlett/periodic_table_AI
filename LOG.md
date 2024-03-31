@@ -37,3 +37,7 @@ Each numbered entry below is a round with the AI.
     - Bot updated the Element component accordingly.
     - Human copied output into the correct folder structure.
     - Human removed line-height due to visual issue
+
+9. Asked AI to update the styling of the Popup so that the element inside it is square.
+    - Bot failed to provide the correct code after 3 interactions.
+    - Human added a new div to wrap Element and set the div's width statically.

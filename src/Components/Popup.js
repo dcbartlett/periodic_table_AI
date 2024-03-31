@@ -33,7 +33,9 @@ const Popup = ({ element, onClose }) => {
       }}
     >
       {/* Element component shown to the left */}
-      <Element element={element} onClick={() => {}} />
+      <div style={{ width: '100px' }}> {/* Fixed width so element looks correct */}
+        <Element element={element} onClick={() => {}} />
+      </div>
 
       {/* Content of the popup */}
       <div style={{ marginLeft: '20px' }}> {/* Added margin to separate content */}
