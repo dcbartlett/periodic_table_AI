@@ -4,11 +4,11 @@ const Element = ({ element, onClick }) => {
   return (
     <div
       style={{
-        display: 'inline-block',
         width: '100px',
-        height: '140px', // Adjusted height to accommodate symbol
+        height: '100px', // Updated height to match width
         border: '1px solid black',
         textAlign: 'center',
+        lineHeight: '100px', // Center content vertically
         cursor: 'pointer',
       }}
       onClick={() => onClick(element)}
