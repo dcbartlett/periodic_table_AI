@@ -1,0 +1,714 @@
+[
+  {
+    "name": "Hydrogen",
+    "atomicNumber": 1,
+    "description": "Hydrogen is a chemical element with symbol H and atomic number 1. It is the lightest and most abundant element in the universe, constituting roughly 75% of all matter in the observable universe.",
+    "symbol": "H"
+  },
+  {
+    "name": "Helium",
+    "atomicNumber": 2,
+    "description": "Helium is a chemical element with symbol He and atomic number 2. It is a colorless, odorless, tasteless, non-toxic, inert, and monatomic gas that is the second lightest element and is a member of the noble gas group in the periodic table.",
+    "symbol": "He"
+  },
+  {
+    "name": "Lithium",
+    "atomicNumber": 3,
+    "description": "Lithium is a chemical element with symbol Li and atomic number 3. It is a soft, silver-white metal belonging to the alkali metal group on the periodic table.",
+    "symbol": "Li"
+  },
+  {
+    "name": "Beryllium",
+    "atomicNumber": 4,
+    "description": "Beryllium is a chemical element with symbol Be and atomic number 4. It is a lightweight and very hard beryllium metal with a silvery-white color and a smooth, polished appearance.",
+    "symbol": "Be"
+  },
+  {
+    "name": "Boron",
+    "atomicNumber": 5,
+    "description": "Boron is a chemical element with symbol B and atomic number 5. It is a metalloid that is found in small amounts in nature, but it is produced in large quantities by the fusion of nitrogen and hydrogen atoms in nuclear reactors.",
+    "symbol": "B"
+  },
+  {
+    "name": "Carbon",
+    "atomicNumber": 6,
+    "description": "Carbon is a chemical element with symbol C and atomic number 6. It is nonmetallic and tetravalent—making four electrons available to form covalent chemical bonds. Carbon is the third most abundant element in the universe, after hydrogen and oxygen.",
+    "symbol": "C"
+  },
+  {
+    "name": "Nitrogen",
+    "atomicNumber": 7,
+    "description": "Nitrogen is a chemical element with symbol N and atomic number 7. It was first discovered and isolated by Daniel Rutherford in 1772.",
+    "symbol": "N"
+  },
+  {
+    "name": "Oxygen",
+    "atomicNumber": 8,
+    "description": "Oxygen is a chemical element with symbol O and atomic number 8. It is a member of the chalcogen group on the periodic table, a highly reactive nonmetal, and an oxidizing agent that readily forms oxides with most elements as well as with other compounds.",
+    "symbol": "O"
+  },
+  {
+    "name": "Fluorine",
+    "atomicNumber": 9,
+    "description": "Fluorine is a chemical element with symbol F and atomic number 9. It is the lightest halogen and exists as a highly toxic pale yellow diatomic gas at standard conditions.",
+    "symbol": "F"
+  },
+  {
+    "name": "Neon",
+    "atomicNumber": 10,
+    "description": "Neon is a chemical element with symbol Ne and atomic number 10. It is a colorless, odorless, inert monatomic gas under standard conditions, though it has a very faint orange glow when placed in a high-voltage electric discharge.",
+    "symbol": "Ne"
+  },
+  {
+    "name": "Sodium",
+    "atomicNumber": 11,
+    "description": "Sodium is a chemical element with symbol Na and atomic number 11. It is a soft, silver-white, highly reactive metal that is very well-suited for applications in modern industry.",
+    "symbol": "Na"
+  },
+  {
+    "name": "Magnesium",
+    "atomicNumber": 12,
+    "description": "Magnesium is a chemical element with symbol Mg and atomic number 12. It is a shiny gray solid that bears a close physical resemblance to the other five elements in the second column (Group 2, or alkaline earth metals) of the periodic table: they all have the same atomic structure and similar chemical properties.",
+    "symbol": "Mg"
+  },
+  {
+    "name": "Aluminum",
+    "atomicNumber": 13,
+    "description": "Aluminum is a chemical element with symbol Al and atomic number 13. It is a silvery-white, soft, nonmagnetic, ductile metal in the boron group. Aluminium is the third most abundant element (after oxygen and silicon) in the Earth's crust.",
+    "symbol": "Al"
+  },
+  {
+    "name": "Silicon",
+    "atomicNumber": 14,
+    "description": "Silicon is a chemical element with symbol Si and atomic number 14. It is a tetravalent metalloid, more reactive than germanium, the metalloid directly below it in the periodic table.",
+    "symbol": "Si"
+  },
+  {
+    "name": "Phosphorus",
+    "atomicNumber": 15,
+    "description": "Phosphorus is a chemical element with symbol P and atomic number 15. As an element, phosphorus exists in two major forms—white phosphorus and red phosphorus—but due to its high reactivity, phosphorus is never found as a free element on Earth.",
+    "symbol": "P"
+  },
+  {
+    "name": "Sulfur",
+    "atomicNumber": 16,
+    "description": "Sulfur is a chemical element with symbol S and atomic number 16. It is an essential element for life, and is an important aspect of nutrition, being a component of all proteins.",
+    "symbol": "S"
+  },
+  {
+    "name": "Chlorine",
+    "atomicNumber": 17,
+    "description": "Chlorine is a chemical element with symbol Cl and atomic number 17. It is a highly reactive nonmetal that is classified as a halogen. Chlorine is a strong oxidizing agent that forms numerous chemical compounds with other elements.",
+    "symbol": "Cl"
+  },
+  {
+    "name": "Argon",
+    "atomicNumber": 18,
+    "description": "Argon is a chemical element with symbol Ar and atomic number 18. It is a noble gas, and is the most abundant among the inert gases in Earth's atmosphere. It is also the third most common gas in the universe, after hydrogen and helium.",
+    "symbol": "Ar"
+  },
+  {
+    "name": "Potassium",
+    "atomicNumber": 19,
+    "description": "Potassium is a chemical element with symbol K and atomic number 19. It is a soft, silvery-white, highly reactive metal that is found in nature only in combination with other elements.",
+    "symbol": "K"
+  },
+  {
+    "name": "Calcium",
+    "atomicNumber": 20,
+    "description": "Calcium is a chemical element with symbol Ca and atomic number 20. It is a soft, silvery, alkaline earth metal and is the fifth most abundant element by mass in the Earth's crust.",
+    "symbol": "Ca"
+  },
+  {
+    "name": "Scandium",
+    "atomicNumber": 21,
+    "description": "Scandium is a chemical element with symbol Sc and atomic number 21. A silvery-white metallic d-block element, it is not found in nature as a free element, but is occasionally found in nature as a compound, usually with yttrium.",
+    "symbol": "Sc"
+  },
+  {
+    "name": "Titanium",
+    "atomicNumber": 22,
+    "description": "Titanium is a chemical element with symbol Ti and atomic number 22. It is a lustrous transition metal with a silver color, low density and high strength. Titanium is resistant to corrosion in sea water, aqua regia and chlorine.",
+    "symbol": "Ti"
+  },
+  {
+    "name": "Vanadium",
+    "atomicNumber": 23,
+    "description": "Vanadium is a chemical element with symbol V and atomic number 23. It is a hard, silvery grey, ductile and malleable transition metal.",
+    "symbol": "V"
+  },
+  {
+    "name": "Chromium",
+    "atomicNumber": 24,
+    "description": "Chromium is a chemical element with symbol Cr and atomic number 24. It is the first element in Group 6 of the periodic table. Chromium is a steely-gray, lustrous, hard and brittle metal.",
+    "symbol": "Cr"
+  },
+  {
+    "name": "Manganese",
+    "atomicNumber": 25,
+    "description": "Manganese is a chemical element with symbol Mn and atomic number 25. It is a metal with a silvery-white metallic appearance that is hard and brittle.",
+    "symbol": "Mn"
+  },
+  {
+    "name": "Iron",
+    "atomicNumber": 26,
+    "description": "Iron is a chemical element with symbol Fe and atomic number 26. It is a metal that belongs to the first transition series and group 8 of the periodic table.",
+    "symbol": "Fe"
+  },
+  {
+    "name": "Cobalt",
+    "atomicNumber": 27,
+    "description": "Cobalt is a chemical element with symbol Co and atomic number 27. Like nickel, cobalt is found in the Earth's crust only in chemically combined form, save for small deposits found in alloys of natural meteoric iron. The free element, produced by reductive smelting, is a hard, lustrous, silver-gray metal.",
+    "symbol": "Co"
+  },
+  {
+    "name": "Nickel",
+    "atomicNumber": 28,
+    "description": "Nickel is a chemical element with symbol Ni and atomic number 28. It is a silvery-white lustrous metal with a slight golden tinge. Nickel belongs to the transition metals and is hard and ductile.",
+    "symbol": "Ni"
+  },
+  {
+    "name": "Copper",
+    "atomicNumber": 29,
+    "description": "Copper is a chemical element with symbol Cu and atomic number 29. It is a soft, malleable, and ductile metal with very high thermal and electrical conductivity. A freshly exposed surface of pure copper has a pinkish-orange color.",
+    "symbol": "Cu"
+  },
+  {
+    "name": "Zinc",
+    "atomicNumber": 30,
+    "description": "Zinc is a chemical element with symbol Zn and atomic number 30. It is the first element in group 12 of the periodic table. In some respects, zinc is chemically similar to magnesium: both elements exhibit only one normal oxidation state (+2), and the Zn2+ and Mg2+ ions are of similar size.",
+    "symbol": "Zn"
+  },
+  {
+    "name": "Gallium",
+    "atomicNumber": 31,
+    "description": "Gallium is a chemical element with symbol Ga and atomic number 31. Elemental gallium is a soft, silvery metal at standard temperature and pressure; however in its liquid state it becomes silvery white. If too much force is applied, the gallium may fracture conchoidally.",
+    "symbol": "Ga"
+  },
+  {
+    "name": "Germanium",
+    "atomicNumber": 32,
+    "description": "Germanium is a chemical element with symbol Ge and atomic number 32. It is a lustrous, hard-brittle, grayish-white metalloid in the carbon group, chemically similar to its group neighbours silicon and tin.",
+    "symbol": "Ge"
+  },
+  {
+    "name": "Arsenic",
+    "atomicNumber": 33,
+    "description": "Arsenic is a chemical element with symbol As and atomic number 33. Arsenic occurs in many minerals, usually in combination with sulfur and metals, but also as a pure elemental crystal. Arsenic is a metalloid. It has various allotropes, but only the gray form, which has a metallic appearance, is important to industry.",
+    "symbol": "As"
+  },
+  {
+    "name": "Selenium",
+    "atomicNumber": 34,
+    "description": "Selenium is a chemical element with symbol Se and atomic number 34. It is a nonmetal with properties that are intermediate between the elements above and below in the periodic table, sulfur and tellurium, and also has similarities to arsenic.",
+    "symbol": "Se"
+  },
+  {
+    "name": "Bromine",
+    "atomicNumber": 35,
+    "description": "Bromine is a chemical element with symbol Br and atomic number 35. It is the third-lightest halogen, and is a fuming red-brown liquid at room temperature that evaporates readily to form a similarly coloured gas. Its properties are thus intermediate between those of chlorine and iodine. Isolated independently by two chemists, Carl Jacob Löwig and Antoine Jérôme Balard, its name was derived from the Ancient Greek βρῶμος ('stench'), referencing its sharp and disagreeable smell.",
+    "symbol": "Br"
+  },
+  {
+    "name": "Krypton",
+    "atomicNumber": 36,
+    "description": "Krypton is a chemical element with symbol Kr and atomic number 36. It is a member of group 18 (noble gases) elements. A colorless, odorless, tasteless noble gas, krypton occurs in trace amounts in the atmosphere and is often used with other rare gases in fluorescent lamps. With rare exceptions, krypton is chemically inert.",
+    "symbol": "Kr"
+  },
+  {
+    "name": "Rubidium",
+    "atomicNumber": 37,
+    "description": "Rubidium is a chemical element with symbol Rb and atomic number 37. Rubidium is a soft, silvery-white metallic element of the alkali metal group, with a standard atomic weight of 85.4678. Elemental rubidium is highly reactive, with properties similar to those of other alkali metals, such as very rapid oxidation in air.",
+    "symbol": "Rb"
+  },
+  {
+    "name": "Strontium",
+    "atomicNumber": 38,
+    "description": "Strontium is a chemical element with symbol Sr and atomic number 38. An alkaline earth metal, strontium is a soft silver-white yellowish metallic element that is highly chemically reactive. The metal forms a dark oxide layer when it is exposed to air.",
+    "symbol": "Sr"
+  },
+  {
+    "name": "Yttrium",
+    "atomicNumber": 39,
+    "description": "Yttrium is a chemical element with symbol Y and atomic number 39. It is a silvery-metallic transition metal chemically similar to the lanthanides and has often been classified as a \"rare-earth element\". Yttrium is almost always found in combination with lanthanide elements in rare-earth minerals, and is never found in nature as a free element.",
+    "symbol": "Y"
+  },
+  {
+    "name": "Zirconium",
+    "atomicNumber": 40,
+    "description": "Zirconium is a chemical element with symbol Zr and atomic number 40. The name zirconium is taken from the name of the mineral zircon (the word is related to Persian zargun (zircon; zar 'gold', gun 'hued'). It is a lustrous, grey-white, strong transition metal that closely resembles hafnium and, to a lesser extent, titanium.",
+    "symbol": "Zr"
+  },
+  {
+    "name": "Niobium",
+    "atomicNumber": 41,
+    "description": "Niobium, also known as columbium, is a chemical element with symbol Nb (formerly Cb) and atomic number 41. It is a soft, grey, crystalline, ductile transition metal, often found in the minerals pyrochlore and columbite, hence the former name \"columbium\". Its name comes from Greek mythology, specifically Niobe, who was the daughter of Tantalus, the namesake of tantalum. The name reflects the great similarity between the two elements in their physical and chemical properties, making them difficult to distinguish.",
+    "symbol": "Nb"
+  },
+  {
+    "name": "Molybdenum",
+    "atomicNumber": 42,
+    "description": "Molybdenum is a chemical element with symbol Mo and atomic number 42. The name is from Neo-Latin molybdaenum, which is based on Ancient Greek Μόλυβδος molybdos, meaning lead, since its ores were confused with lead ores.",
+    "symbol": "Mo"
+  },
+  {
+    "name": "Technetium",
+    "atomicNumber": 43,
+    "description": "Technetium is a chemical element with symbol Tc and atomic number 43. It is the lightest element whose isotopes are all radioactive, none of which are stable except 98Tc. Nearly all technetium is produced synthetically, and only minute amounts are found in the Earth's crust.",
+    "symbol": "Tc"
+  },
+  {
+    "name": "Ruthenium",
+    "atomicNumber": 44,
+    "description": "Ruthenium is a chemical element with symbol Ru and atomic number 44. It is a rare transition metal belonging to the platinum group of the periodic table. Like the other metals of the platinum group, ruthenium is inert to most other chemicals. Russian-born scientist of Baltic-German ancestry Karl Ernst Claus discovered the element in 1844 at Kazan State University and named ruthenium in honor of Russia.",
+    "symbol": "Ru"
+  },
+  {
+    "name": "Rhodium",
+    "atomicNumber": 45,
+    "description": "Rhodium is a chemical element with symbol Rh and atomic number 45. It is a rare, silvery-white, hard, corrosion-resistant, and chemically inert transition metal. It is a noble metal and a member of the platinum group. It has only one naturally occurring isotope, 103Rh.",
+    "symbol": "Rh"
+  },
+  {
+    "name": "Palladium",
+    "atomicNumber": 46,
+    "description": "Palladium is a chemical element with symbol Pd and atomic number 46. It is a rare and lustrous silvery-white metal discovered in 1803 by the English chemist William Hyde Wollaston. He named it after the asteroid Pallas, which was itself named after the epithet of the Greek goddess Athena, acquired by her when she slew Pallas.",
+    "symbol": "Pd"
+  },
+  {
+    "name": "Silver",
+    "atomicNumber": 47,
+    "description": "Silver is a chemical element with symbol Ag and atomic number 47. A soft, white, lustrous transition metal, it exhibits the highest electrical conductivity, thermal conductivity, and reflectivity of any metal. The metal is found in the Earth's crust in the pure, free elemental form ('native silver'), as an alloy with gold and other metals, and in minerals such as argentite and chlorargyrite. Most silver is produced as a byproduct of copper, gold, lead, and zinc refining.",
+    "symbol": "Ag"
+  },
+  {
+    "name": "Cadmium",
+    "atomicNumber": 48,
+    "description": "Cadmium is a chemical element with the symbol Cd and atomic number 48. It is a soft, silvery-white metal with a bluish tinge, commonly found in minor quantities in zinc ores. Cadmium is similar in many respects to zinc but forms complex compounds. Unlike most other metals, cadmium is resistant to corrosion and is used as a protective plate on other metals.",
+    "symbol": "Cd"
+  },
+  {
+    "name": "Indium",
+    "atomicNumber": 49,
+    "description": "Indium is a chemical element with the symbol In and atomic number 49. Indium is the softest metal that is not an alkali metal. It is a silvery-white metal that resembles tin in appearance. It is a post-transition metal that makes up 0.21 parts per million of the Earth's crust. Indium has a melting point higher than sodium and gallium, but lower than lithium and tin.",
+    "symbol": "In"
+  },
+  {
+    "name": "Tin",
+    "atomicNumber": 50,
+    "description": "Tin is a chemical element with the symbol Sn (from Latin: stannum) and atomic number 50. Tin is a silvery metal that characteristically has a faint yellow hue. Tin, like indium, is soft enough to be cut without much force. When a bar of tin is bent, the so-called 'tin cry' can be heard as a result of sliding tin crystals reforming; this trait is shared by indium, cadmium, and frozen mercury.",
+    "symbol": "Sn"
+  },
+  {
+    "name": "Antimony",
+    "atomicNumber": 51,
+    "description": "Antimony is a chemical element with the symbol Sb (from Latin: stibium) and atomic number 51. A lustrous gray metalloid, it is found in nature mainly as the sulfide mineral stibnite (Sb2S3). Antimony compounds have been known since ancient times and were powdered for use as medicine and cosmetics, often known by the Arabic name kohl. Metallic antimony was also known, but it was erroneously identified as lead upon its discovery. The earliest known description of the metal in the West was written in 1540 by Vannoccio Biringuccio.",
+    "symbol": "Sb"
+  },
+  {
+    "name": "Tellurium",
+    "atomicNumber": 52,
+    "description": "Tellurium is a chemical element with the symbol Te and atomic number 52. It is a brittle, mildly toxic, rare, silver-white metalloid. Tellurium is chemically related to selenium and sulfur, all three of which are chalcogens. It is occasionally found in native form as elemental crystals.",
+    "symbol": "Te"
+  },
+  {
+    "name": "Iodine",
+    "atomicNumber": 53,
+    "description": "Iodine is a chemical element with symbol I and atomic number 53. It is the heaviest of the stable halogens, and the least reactive of the halogens even if it can still form compounds with many elements. Iodine's properties are due to its position in the periodic table, which has been preserved by the element's radioactivity, and which is the result of the influence of the halogen group's electron configuration.",
+    "symbol": "I"
+  },
+  {
+    "name": "Xenon",
+    "atomicNumber": 54,
+    "description": "Xenon is a chemical element with symbol Xe and atomic number 54. It is a colorless, dense, odorless noble gas found in Earth's atmosphere in trace amounts. Although generally unreactive, xenon can undergo a few chemical reactions such as the formation of xenon hexafluoroplatinate, the first noble gas compound to be synthesized.",
+    "symbol": "Xe"
+ 
+
+ },
+  {
+    "name": "Cesium",
+    "atomicNumber": 55,
+    "description": "Cesium is a chemical element with symbol Cs and atomic number 55. It is a soft, silvery-golden alkali metal with a melting point of 28.5 °C (83.3 °F), which makes it one of only five elemental metals that are liquid at or near room temperature. Caesium has physical and chemical properties similar to those of rubidium and potassium. The most reactive of all metals, it is pyrophoric and reacts with water even at −116 °C (−177 °F). It is the least electronegative element, with a value of 0.79 on the Pauling scale. It has only one stable isotope, caesium-133. Caesium is mined mostly from pollucite, while the radioisotopes, especially caesium-137, a fission product, are extracted from waste produced by nuclear reactors.",
+    "symbol": "Cs"
+  },
+  {
+    "name": "Barium",
+    "atomicNumber": 56,
+    "description": "Barium is a chemical element with the symbol Ba and atomic number 56. It is the fifth element in group 2 and is a soft, silvery alkaline earth metal. Because of its high chemical reactivity, barium is never found in nature as a free element. Its hydroxide, known in pre-modern times as baryta, does not occur as a mineral, but can be prepared by heating barium carbonate.",
+    "symbol": "Ba"
+  },
+  {
+    "name": "Lanthanum",
+    "atomicNumber": 57,
+    "description": "Lanthanum is a chemical element with the symbol La and atomic number 57. It is a soft, ductile, silvery-white metal that tarnishes slowly when exposed to air and is soft enough to be cut with a knife. It is the eponym of the lanthanide series, a group of 15 similar elements between lanthanum and lutetium in the periodic table, of which lanthanum is the first and the prototype.",
+    "symbol": "La"
+  },
+  {
+    "name": "Cerium",
+    "atomicNumber": 58,
+    "description": "Cerium is a chemical element with the symbol Ce and atomic number 58. Cerium is a soft, ductile and silvery-white metal that tarnishes when exposed to air, and it is soft enough to be cut with a knife. Cerium is the second element in the lanthanide series, and while it often shows the +3 oxidation state characteristic of the series, it also exceptionally has a stable +4 state that does not oxidize water. It is also considered one of the rare-earth elements.",
+    "symbol": "Ce"
+  },
+  {
+    "name": "Praseodymium",
+    "atomicNumber": 59,
+    "description": "Praseodymium is a chemical element with the symbol Pr and atomic number 59. It is the third member of the lanthanide series and is traditionally considered to be one of the rare-earth metals. Praseodymium is a soft, silvery, malleable and ductile metal, valued for its magnetic, electrical, chemical, and optical properties. It is too reactive to be found in native form, and when artificially prepared, it slowly develops a green oxide coating.",
+    "symbol": "Pr"
+  },
+  {
+    "name": "Neodymium",
+    "atomicNumber": 60,
+    "description": "Neodymium is a chemical element with the symbol Nd and atomic number 60. Neodymium belongs to the lanthanide series and is a rare-earth element. It is a hard, slightly malleable silvery metal that quickly tarnishes in air and moisture. When oxidized, neodymium reacts quickly to produce pink, purple/blue and yellow compounds in the +2, +3 and +4 oxidation states.",
+    "symbol": "Nd"
+  },
+  {
+    "name": "Promethium",
+    "atomicNumber": 61,
+    "description": "Promethium is a chemical element with the symbol Pm and atomic number 61. All of its isotopes are radioactive; it is extremely rare, with only about 500–600 grams naturally occurring in Earth's crust at any given time.",
+    "symbol": "Pm"
+  },
+  {
+    "name": "Samarium",
+    "atomicNumber": 62,
+    "description": "Samarium is a chemical element with the symbol Sm and atomic number 62. It is a moderately hard silvery metal that slowly oxidizes in air. Being a typical member of the lanthanide series, samarium usually assumes the oxidation state +3. Compounds of samarium(II) are also known, most notably the monoxide SmO, monochalcogenides SmS, SmSe, and SmTe, as well as samarium(II) iodide.",
+    "symbol": "Sm"
+  },
+  {
+    "name": "Europium",
+    "atomicNumber": 63,
+    "description": "Europium is a chemical element with the symbol Eu and atomic number 63. Europium is the most reactive lanthanide by far, having to be stored under an inert fluid to protect it from atmospheric oxygen or moisture. Europium is also the softest of all the lanthanides.",
+    "symbol": "Eu"
+  },
+  {
+    "name": "Gadolinium",
+    "atomicNumber": 64,
+    "description": "Gadolinium is a chemical element with the symbol Gd and atomic number 64. Gadolinium is a silvery-white metal when oxidation is removed. It is only slightly malleable and is a ductile rare-earth element. Gadolinium reacts with atmospheric oxygen or moisture slowly to form a black coating.",
+    "symbol": "Gd"
+  },
+  {
+    "name": "Terbium",
+    "atomicNumber": 65,
+    "description": "Terbium is a chemical element with the symbol Tb and atomic number 65. It is a silvery-white, rare earth metal that is malleable, ductile, and soft enough to be cut with a knife. The ninth member of the lanthanide series, terbium is a fairly electropositive metal that reacts with water, evolving hydrogen gas.",
+    "symbol": "Tb"
+  },
+  {
+    "name": "Dysprosium",
+    "atomicNumber": 66,
+    "description": "Dysprosium is a chemical element with the symbol Dy and atomic number 66. It is a rare-earth element with a metallic silver luster. Dysprosium is never found in nature as a free element, though it is found in various minerals, such as xenotime.",
+    "symbol": "Dy"
+  },
+  {
+    "name": "Holmium",
+    "atomicNumber": 67,
+    "description": "Holmium is a chemical element with the symbol Ho and atomic number 67. Part of the lanthanide series, holmium is a rare-earth element. Holmium was discovered by Swiss chemist Marc Delafontaine and Swedish chemist Per Teodor Cleve in 1878. Its oxide was first isolated from rare earth ores in 1878 and the element was named after the city of Stockholm.",
+    "symbol": "Ho"
+  },
+  {
+    "name": "Erbium",
+    "atomicNumber": 68,
+    "description": "Erbium is a chemical element with the symbol Er and atomic number 68. A silvery-white solid metal when artificially isolated, natural erbium is always found in chemical combination with other elements. It is a lanthanide, a rare earth element, originally found in the gadolinite mine in Ytterby in Sweden, from which it got its name.",
+    "symbol": "Er"
+  },
+  {
+    "name": "Thulium",
+    "atomicNumber": 69,
+    "description": "Thulium is a chemical element with the symbol Tm and atomic number 69. It is the thirteenth and third-last element in the lanthanide series. Like the other lanthanides, the most common oxidation state is +3, seen in its oxide, halides and other compounds. In aqueous solution, like compounds of other late lanthanides, soluble thulium compounds form complexes with nine water molecules.",
+    "symbol": "Tm"
+  },
+  {
+    "name": "Ytterbium",
+    "atomicNumber": 70,
+    "description": "Ytterbium is a chemical element with the symbol Yb and atomic number 70. It is the fourteenth and penultimate element in the lanthanide series, which is the basis of the relative stability of its +2 oxidation state. However, like the other lanthanides, its most common oxidation state is +3, as in its oxide, halides, and other compounds. In aqueous solution, like compounds of other late lanthanides, soluble ytterbium compounds form complexes with nine water molecules.",
+    "symbol": "Yb"
+  },
+  {
+    "name": "Lutetium",
+    "atomicNumber": 71,
+    "description": "Lutetium is a chemical element with the symbol Lu and atomic number 71. It is a silvery white metal, which resists corrosion in dry, but not in moist air. Lutetium is the last element in the lanthanide series, and it is traditionally counted among the rare earths. Lutetium is sometimes considered the first element of the 6th-period transition metals, although lanthanum is more often considered as such.",
+    "symbol": "Lu"
+  },
+  {
+    "name": "Hafnium",
+    "atomicNumber": 72,
+    "description": "Hafnium is a chemical element with the symbol Hf and atomic number 72. A lustrous, silvery gray, tetravalent transition metal, hafnium chemically resembles zirconium and is found in many zirconium minerals. Its existence was predicted by Dmitri Mendeleev in 1869, though it was not identified until 1923, making it the penultimate stable element to be discovered (rhenium was identified two years later). Hafnium is named after Hafnia, the Latin name for Copenhagen, where it was discovered.",
+    "symbol": "Hf"
+  },
+  {
+    "name": "Tantalum",
+    "atomicNumber": 73,
+    "description": "Tantalum is a chemical element with the symbol Ta and atomic number 73. Previously known as tantalium, it is named after Tantalus, a villain from Greek mythology. Tantalum is a rare, hard, blue-gray, lustrous transition metal that is highly corrosion-resistant. It is part of the refractory metals group, which are widely used as minor components in alloys. The chemical inertness of tantalum makes it a valuable substance for laboratory equipment and a substitute for platinum, but its main use today is in tantalum capacitors in electronic equipment such as mobile phones, DVD players, video game systems and computers. Tantalum, always together with the chemically similar niobium, occurs in the minerals tantalite, columbite and coltan (a mix of columbite and tantalite, though not recognised as a separate mineral species).",
+    "symbol": "Ta"
+  },
+  {
+    "name": "Tungsten",
+    "atomicNumber": 74,
+    "description": "Tungsten, or wolfram, is a chemical element with the symbol W and atomic number 74. Tungsten is a rare metal found naturally on Earth almost exclusively combined with other elements in chemical compounds. It was identified as a new element in 1781 and first isolated as a metal in 1783. Its important ores include scheelite, and wolframite, lending the element its alternate name.",
+    "symbol": "W"
+  },
+  {
+    "name": "Rhenium",
+    "atomicNumber": 75,
+    "description": "Rhenium is a chemical element with the symbol Re and atomic number 75. It is a silvery-gray, heavy, third-row transition metal in group 7 of the periodic table. With an estimated average concentration of 1 part per billion (ppb), rhenium is one of the rarest elements in the Earth's crust. Rhenium has the third-highest melting point and highest boiling point of any stable element at 5903 K. Rhenium resembles manganese and technetium chemically and is mainly obtained as a by-product of the extraction and refinement of molybdenum and copper ores. Rhenium shows in its compounds a wide variety of oxidation states ranging from −1 to +7.",
+    "symbol": "Re"
+  },
+  {
+    "name": "Osmium",
+    "atomicNumber": 76,
+    "description": "Osmium is a chemical element with the symbol Os and atomic number 76. It is a hard, brittle, bluish-white transition metal in the platinum group that is found as a trace element in alloys, mostly in platinum ores. Osmium is the densest naturally occurring element, with a density of 22.59 g/cm3. Manufacturers use its alloys with platinum, iridium, and other platinum-group metals to make fountain pen nib tipping, electrical contacts, and in other applications that require extreme durability and hardness.",
+    "symbol": "Os"
+  },
+  {
+    "name": "Iridium",
+    "atomicNumber": 77,
+    "description": "Iridium is a chemical element with the symbol Ir and atomic number 77. A very hard, brittle, silvery-white transition metal of the platinum group, iridium is generally credited with being the second densest element (after osmium) based on measured density, although calculations involving the space lattices of the elements show that iridium is denser. It is also the most corrosion-resistant metal, even at temperatures as high as 2000 °C. Although only certain molten salts and halogens are corrosive to solid iridium, finely divided iridium dust is much more reactive and can be flammable.",
+    "symbol": "Ir"
+  },
+  {
+    "name": "Platinum",
+    "atomicNumber": 78,
+    "description": "Platinum is a chemical element with the symbol Pt and atomic number 78. It is a dense, malleable, ductile, highly unreactive, precious, silverish-white transition metal. Its name is derived from the Spanish term platino, meaning 'little silver'.",
+    "symbol": "Pt"
+  },
+  {
+    "name": "Gold",
+    "atomicNumber": 79,
+    "description": "Gold is a chemical element with the symbol Au (from Latin: aurum) and atomic number 79, making it one of the higher atomic number elements that occur naturally. In a pure form, it is a bright, slightly reddish yellow, dense, soft, malleable, and ductile metal. Chemically, gold is a transition metal and a group 11 element. It is one of the least reactive chemical elements and is solid under standard conditions. Gold often occurs in free elemental (native) form, as nuggets or grains, in rocks, in veins, and in alluvial deposits. It occurs in a solid solution series with the native element silver (as electrum) and also naturally alloyed with copper and palladium. Less commonly, it occurs in minerals as gold compounds, often with tellurium (gold tellurides).",
+    "symbol": "Au"
+  },
+  {
+    "name": "Mercury",
+    "atomicNumber": 80,
+    "description": "Mercury is a chemical element with the symbol Hg and atomic number 80. It is commonly known as quicksilver and was formerly named hydrargyrum (/haɪˈdrɑːrdʒərəm/). A heavy, silvery d-block element, mercury is the only metallic element that is liquid at standard conditions for temperature and pressure; the only other element that is liquid under these conditions is the halogen bromine, though metals such as caesium, gallium, and rubidium melt just above room temperature.",
+    "symbol": "Hg"
+  },
+  {
+    "name": "Thallium",
+    "atomicNumber": 81,
+    "description": "Thallium is a chemical element with the symbol Tl and atomic number 81. It is a gray post-transition metal that is not found free in nature. When isolated, thallium resembles tin, but discolors when exposed to air. Chemists William Crookes and Claude-Auguste Lamy discovered thallium independently in 1861, in residues of sulfuric acid production. Both used the newly developed method of flame spectroscopy, in which thallium produces a notable green spectral line.",
+    "symbol": "Tl"
+  },
+  {
+    "name": "Lead",
+    "atomicNumber": 82,
+    "description": "Lead is a chemical element with the symbol Pb (from the Latin plumbum) and atomic number 82. It is a heavy metal that is denser than most common materials. Lead is soft and malleable, and also has a relatively low melting point. When freshly cut, lead is silvery with a hint of blue; it tarnishes to a dull gray color when exposed to air. Lead has the highest atomic number of any stable element and three of its isotopes are endpoints of major nuclear decay chains of heavier elements.",
+    "symbol": "Pb"
+  },
+  {
+    "name": "Bismuth",
+    "atomicNumber": 83,
+    "description": "Bismuth is a chemical element with the symbol Bi and atomic number 83. It is a pentavalent post-transition metal and one of the pnictogens with chemical properties resembling its lighter homologs arsenic and antimony. Elemental bismuth may occur naturally, although its sulfide and oxide form important commercial ores. The free element is 86% as dense as lead. It is a brittle metal with a silvery-white color when freshly produced, but surface oxidation can give it an iridescent tinge in numerous colors. Bismuth is the most naturally diamagnetic element and has one of the lowest values of thermal conductivity among metals.",
+    "symbol": "Bi"
+  },
+  {
+    "name": "Polonium",
+    "atomicNumber": 84,
+    "description": "Polonium is a chemical element with the symbol Po and atomic number 84. A rare and highly radioactive metal with no stable isotopes, polonium is chemically similar to selenium and tellurium, though its metallic character resembles that of its horizontal neighbors in the periodic table: thallium, lead, and bismuth. Due to the short half-life of all its isotopes, its natural occurrence is limited to tiny traces of the fleeting polonium-210 (with a half-life of 138 days) in uranium ores, as it is the penultimate daughter of natural uranium-238.",
+    "symbol": "Po"
+  },
+  {
+    "name": "Astatine",
+    "atomicNumber": 85,
+    "description": "Astatine is a chemical element with the symbol At and atomic number 85. It is the rarest naturally occurring element in the Earth's crust, occurring only as the decay product of various heavier elements. All of astatine's isotopes are short-lived; the most stable is astatine-210, with a half-life of 8.1 hours. Astatine is estimated to be the 80th most abundant element in the Earth's crust.",
+    "symbol": "At"
+  },
+  {
+    "name": "Radon",
+    "atomicNumber": 86,
+    "description": "Radon is a chemical element with the symbol Rn and atomic number 86. It is a radioactive, colorless, odorless, tasteless noble gas. It occurs naturally in minute quantities as an intermediate step in the normal radioactive decay chains through which thorium and uranium slowly decay into lead and various other short-lived radioactive elements. Radon itself is the immediate decay product of radium.",
+    "symbol": "Rn"
+  },
+  {
+    "name": "Francium",
+    "atomicNumber": 87,
+    "description": "Francium is a chemical element with the symbol Fr and atomic number 87. It used to be known as eka-caesium and actinium K. It is the second-least electronegative element, behind only caesium. Francium is a highly radioactive metal that decays into astatine, radium, and radon. As an alkali metal, it has one valence electron.",
+    "symbol": "Fr"
+  },
+  {
+    "name": "Radium",
+    "atomicNumber": 88,
+    "description": "Radium is a chemical element with the symbol Ra and atomic number 88. It is the sixth element in group 2 of the periodic table, also known as the alkaline earth metals. Pure radium is silvery-white, but it readily reacts with nitrogen (rather than oxygen) on exposure to air, forming a black surface layer of radium nitride (Ra3N2).",
+    "symbol": "Ra"
+  },
+  {
+    "name": "Actinium",
+    "atomicNumber": 89,
+    "description": "Actinium is a chemical element with the symbol Ac and atomic number 89. It was discovered in 1899 by Friedrich Oskar Giesel. The name actinium originates from the Ancient Greek aktis, aktinos, meaning 'ray' or 'beam'. Actinium gave the name to the actinide series, a group of 15 similar elements between actinium and lawrencium in the periodic table.",
+    "symbol": "Ac"
+  },
+  {
+    "name": "Thorium",
+    "atomicNumber": 90,
+    "description": "Thorium is a weakly radioactive metallic chemical element with the symbol Th and atomic number 90. Thorium is silvery and tarnishes black when it is exposed to air, forming thorium dioxide; it is moderately hard, malleable, and has a high melting point. Thorium is an electropositive actinide whose chemistry is dominated by the +4 oxidation state; it is quite reactive and can ignite in air when finely divided.",
+    "symbol": "Th"
+  },
+  {
+    "name": "Protactinium",
+    "atomicNumber": 91,
+    "description": "Protactinium is a chemical element with the symbol Pa and atomic number 91. It is a dense, silvery-gray actinide metal which readily reacts with oxygen, water vapor and inorganic acids. It forms various chemical compounds in which protactinium is usually present in the oxidation state +5, but it can also assume +4 and even +3 or +2 states. Concentrations of protactinium in the Earth's crust are typically a few parts per trillion, but may reach up to a few parts per million in some uraninite ore deposits.",
+    "symbol": "Pa"
+  },
+  {
+    "name": "Uranium",
+    "atomicNumber": 92,
+    "description": "Uranium is a chemical element with the symbol U and atomic number 92. It is a silvery-grey metal in the actinide series of the periodic table. A uranium atom has 92 protons and 92 electrons, of which 6 are valence electrons. Uranium is weakly radioactive because all isotopes of uranium are unstable; the half-lives of its naturally occurring isotopes range between 159,200 years and 4.5 billion years. Uranium has the highest atomic weight of the primordially occurring elements.",
+    "symbol": "U"
+  },
+  {
+    "name": "Neptunium",
+    "atomicNumber": 93,
+    "description": "Neptunium is a chemical element with the symbol Np and atomic number 93. A radioactive actinide metal, neptunium is the first transuranic element. Its position in the periodic table just after uranium, named after the planet Uranus, led to it being named after Neptune, the next planet beyond Uranus. A neptunium atom has 93 protons and 93 electrons, of which seven are valence electrons.",
+    "symbol": "Np"
+  },
+  {
+    "name": "Plutonium",
+    "atomicNumber": 94,
+    "description": "Plutonium is a radioactive chemical element with the symbol Pu and atomic number 94. It is an actinide metal of silvery-gray appearance that tarnishes when exposed to air, and forms a dull coating when oxidized. The element normally exhibits six allotropes and four oxidation states. It reacts with carbon, halogens, nitrogen, silicon, and hydrogen. When exposed to moist air, it forms oxides and hydrides that can expand the sample up to 70% in volume, which in turn flake off as a powder that is pyrophoric. It is radioactive and can accumulate in bones, which makes the handling of plutonium dangerous.",
+    "symbol": "Pu"
+  },
+  {
+    "name": "Americium",
+    "atomicNumber": 95,
+    "description": "Americium is a synthetic chemical element with the symbol Am and atomic number 95. It is a transuranic member of the actinide series, in the periodic table located under the lanthanide element europium, and thus by analogy was named after the Americas.",
+    "symbol": "Am"
+  },
+  {
+    "name": "Curium",
+    "atomicNumber": 96,
+    "description": "Curium is a transuranic radioactive chemical element with the symbol Cm and atomic number 96. This element of the actinide series was named after Marie and Pierre Curie – both were known for their research on radioactivity. Curium was first intentionally produced and identified in July 1944 by the group of Glenn T. Seaborg at the University of California, Berkeley.",
+    "symbol": "Cm"
+  },
+  {
+    "name": "Berkelium",
+    "atomicNumber": 97,
+    "description": "Berkelium is a transuranic radioactive chemical element with the symbol Bk and atomic number 97. It is a member of the actinide and transuranium element series. It is named after the city of Berkeley, California, the location of the University of California Radiation Laboratory where it was discovered in December 1949.",
+    "symbol": "Bk"
+  },
+  {
+    "name": "Californium",
+    "atomicNumber":
+
+ 98,
+    "description": "Californium is a radioactive chemical element with the symbol Cf and atomic number 98. The element was first made in 1950 at the University of California Radiation Laboratory in Berkeley, by bombarding curium with alpha particles (helium-4 ions). It is an actinide element, the sixth transuranium element to be synthesized, and has the second-highest atomic mass of all the elements that have been produced in amounts large enough to see with the unaided eye (after einsteinium).",
+    "symbol": "Cf"
+  },
+  {
+    "name": "Einsteinium",
+    "atomicNumber": 99,
+    "description": "Einsteinium is a synthetic element with the symbol Es and atomic number 99. As a member of the actinide series, it is the seventh transuranic element. Einsteinium was discovered as a component of the debris of the first hydrogen bomb explosion in 1952, and named after Albert Einstein.",
+    "symbol": "Es"
+  },
+  {
+    "name": "Fermium",
+    "atomicNumber": 100,
+    "description": "Fermium is a synthetic element with the symbol Fm and atomic number 100. It is an actinide and the heaviest element that can be formed by neutron bombardment of lighter elements, and hence the last element that can be prepared in macroscopic quantities, although pure fermium metal has not yet been prepared. A total of 19 isotopes are known, with 257Fm being the longest-lived with a half-life of 100.5 days.",
+    "symbol": "Fm"
+  },
+  {
+    "name": "Mendelevium",
+    "atomicNumber": 101,
+    "description": "Mendelevium is a synthetic element with the symbol Md (formerly Mv) and atomic number 101. A metallic radioactive transuranic element in the actinide series, it is named after Dmitri Mendeleev, who was one of the most important of the many contributors to the periodic table.",
+    "symbol": "Md"
+  },
+  {
+    "name": "Nobelium",
+    "atomicNumber": 102,
+    "description": "Nobelium is a synthetic chemical element with the symbol No and atomic number 102. It is named in honor of Alfred Nobel, the inventor of dynamite and benefactor of science. A radioactive metal, it is the tenth transuranic element and is the penultimate member of the actinide series.",
+    "symbol": "No"
+  },
+  {
+    "name": "Lawrencium",
+    "atomicNumber": 103,
+    "description": "Lawrencium is a synthetic chemical element with the symbol Lr (formerly Lw) and atomic number 103. It is named in honor of Ernest Lawrence, inventor of the cyclotron, a device that was used to discover many artificial radioactive elements. A radioactive metal, lawrencium is the eleventh transuranic element and is also the final member of the actinide series.",
+    "symbol": "Lr"
+  },
+  {
+    "name": "Rutherfordium",
+    "atomicNumber": 104,
+    "description": "Rutherfordium is a synthetic chemical element with the symbol Rf and atomic number 104. It is an artificially produced element and is radioactive; the most stable known isotope, 267Rf, has a half-life of approximately 1.3 hours.",
+    "symbol": "Rf"
+  },
+  {
+    "name": "Dubnium",
+    "atomicNumber": 105,
+    "description": "Dubnium is a synthetic chemical element with the symbol Db and atomic number 105. Dubnium is highly radioactive: the most stable known isotope, dubnium-268, has a half-life of about 28 hours. This greatly limits the extent of research on dubnium.",
+    "symbol": "Db"
+  },
+  {
+    "name": "Seaborgium",
+    "atomicNumber": 106,
+    "description": "Seaborgium is a synthetic chemical element with the symbol Sg and atomic number 106. It is named after the American nuclear chemist Glenn T. Seaborg. As a synthetic element, it can be created in a laboratory but is not found in nature. It is also radioactive; the most stable known isotope, seaborgium-269, has a half-life of approximately 14 minutes.",
+    "symbol": "Sg"
+  },
+  {
+    "name": "Bohrium",
+    "atomicNumber": 107,
+    "description": "Bohrium is a synthetic chemical element with the symbol Bh and atomic number 107. It is named after Danish physicist Niels Bohr. As a synthetic element, it can be created in a laboratory but is not found in nature. All known isotopes of bohrium are extremely radioactive; the most stable known isotope is bohrium-270, with a half-life of approximately 61 seconds.",
+    "symbol": "Bh"
+  },
+  {
+    "name": "Hassium",
+    "atomicNumber": 108,
+    "description": "Hassium is a synthetic chemical element with the symbol Hs and atomic number 108. It is named after the German state of Hesse. It is a synthetic element (an element that can be created in a laboratory but is not found in nature) and radioactive; the most stable known isotope, hassium-270, has a half-life of approximately 10 seconds.",
+    "symbol": "Hs"
+  },
+  {
+    "name": "Meitnerium",
+    "atomicNumber": 109,
+    "description": "Meitnerium is a synthetic chemical element with the symbol Mt and atomic number 109. It is an extremely radioactive synthetic element (an element not found in nature, but can be created in a laboratory). The most stable known isotope, meitnerium-278, has a half-life of 7.6 seconds.",
+    "symbol": "Mt"
+  },
+  {
+    "name": "Darmstadtium",
+    "atomicNumber": 110,
+    "description": "Darmstadtium is a synthetic chemical element with the symbol Ds and atomic number 110. It is an extremely radioactive synthetic element. The most stable known isotope, darmstadtium-281, has a half-life of approximately 11.1 seconds.",
+    "symbol": "Ds"
+  },
+  {
+    "name": "Roentgenium",
+    "atomicNumber": 111,
+    "description": "Roentgenium is a synthetic chemical element with the symbol Rg and atomic number 111. It is an extremely radioactive synthetic element. The most stable known isotope, roentgenium-282, has a half-life of 2.1 minutes, although the unconfirmed roentgenium-286 may have a longer half-life of about 10.7 minutes.",
+    "symbol": "Rg"
+  },
+  {
+    "name": "Copernicium",
+    "atomicNumber": 112,
+    "description": "Copernicium is a synthetic chemical element with the symbol Cn and atomic number 112. It is an extremely radioactive metal that was first synthesized in 1996. It is named after the astronomer Nicolaus Copernicus. Its most stable known isotope, copernicium-285, has a half-life of approximately 28 seconds.",
+    "symbol": "Cn"
+  },
+  {
+    "name": "Nihonium",
+    "atomicNumber": 113,
+    "description": "Nihonium is a synthetic chemical element with the symbol Nh and atomic number 113. It is extremely radioactive; its most stable known isotope, nihonium-286, has a half-life of about 10 seconds. In the periodic table, nihonium is a transactinide element in the p-block.",
+    "symbol": "Nh"
+  },
+  {
+    "name": "Flerovium",
+    "atomicNumber": 114,
+    "description": "Flerovium is a superheavy artificial chemical element with the symbol Fl and atomic number 114. It is an extremely radioactive synthetic element. The element is named after the Flerov Laboratory of Nuclear Reactions of the Joint Institute for Nuclear Research in Dubna, Russia, where the element was discovered in 1998. The name of the laboratory, in turn, honours the Russian physicist Georgy Flyorov.",
+    "symbol": "Fl"
+  },
+  {
+    "name": "Moscovium",
+    "atomicNumber": 115,
+    "description": "Moscovium is a synthetic element with the symbol Mc and atomic number 115. It was first synthesized in 2003 by a joint team of Russian and American scientists at the Joint Institute for Nuclear Research (JINR) in Dubna, Russia. In December 2015, it was recognized as one of four new elements by the Joint Working Party of the international scientific bodies IUPAC and IUPAP. On 28 November 2016, it was officially named after the Moscow Oblast, in which the JINR is situated.",
+    "symbol": "Mc"
+  },
+  {
+    "name": "Livermorium",
+    "atomicNumber": 116,
+    "description": "Livermorium is a synthetic chemical element with the symbol Lv and atomic number 116. It is an extremely radioactive element that has only been created in the laboratory and has not been observed in nature. The element is named after the Lawrence Livermore National Laboratory in the United States, which collaborated with the Joint Institute for Nuclear Research (JINR) in Dubna, Russia to discover livermorium during experiments made between 2000 and 2006.",
+    "symbol": "Lv"
+  },
+  {
+    "name": "Tennessine",
+    "atomicNumber": 117,
+    "description": "Tennessine is a synthetic chemical element with the symbol Ts and atomic number 117. It is the second-heaviest known element and the penultimate element of the 7th period of the periodic table. The discovery of tennessine was officially announced in Dubna, Russia, by a Russian-American collaboration in 2010, which makes it the most recently discovered element as of 2020. In December 2015, it was recognized as one of four new elements by the Joint Working Party of international scientific bodies IUPAC and IUPAP. On 28 November 2016, it was officially named after the U.S. state of Tennessee.",
+    "symbol": "Ts"
+  },
+  {
+    "name": "Oganesson",
+    "atomicNumber": 118,
+    "description": "Oganesson is a synthetic chemical element with the symbol Og and atomic number 118. It was first synthesized in 2002 at the Joint Institute for Nuclear Research (JINR) in Dubna, near Moscow, Russia, by a joint team of Russian and American scientists. In December 2015, it was recognized as one of four new elements by the Joint Working Party of international scientific bodies IUPAC and IUPAP. It was formally named on 28 November 2016. The name honors Russian physicist Yuri Oganessian, a pioneer in the discovery of synthetic elements, who was also part of the team that discovered tennessine.",
+    "symbol": "Og"
+  }
+]
