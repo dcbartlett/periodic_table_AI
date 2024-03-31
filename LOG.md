@@ -18,9 +18,19 @@ Each numbered entry below is a round with the AI.
     - Human copied output into the correct folder structure.
 
 4. Asked AI to remove the "close" button and make it so clicking outside of the popup closes the popup instead.
-    - Bot updated Popup Element accordingly.
+    - Bot updated the Popup component accordingly.
     - Human copied output into the correct folder structure.
 
 5. Asked AI to add an overlay to the Popup Background.
-    - Bot updated Popup Element accordingly.
+    - Bot updated the Popup component accordingly.
     - Human copied output into the correct folder structure.
+
+6. Asked AI to update the Element component to add a symbol to the element above the name.
+    - Bot updated the Element component accordingly.
+    - Human copied output into the correct folder structure.
+
+7. Asked AI to add the Element component to the Popup component so that the Element is shown to the left of the current content in the popup.
+    - Bot updated the Element component accordingly.
+    - Human copied output into the correct folder structure.
+
+
