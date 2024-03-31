@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/periodic_table_AI/static/css/main.e6c13ad2.css",
+    "main.js": "/periodic_table_AI/static/js/main.72d00864.js",
+    "static/js/453.b78a47aa.chunk.js": "/periodic_table_AI/static/js/453.b78a47aa.chunk.js",
+    "index.html": "/periodic_table_AI/index.html",
+    "main.e6c13ad2.css.map": "/periodic_table_AI/static/css/main.e6c13ad2.css.map",
+    "main.72d00864.js.map": "/periodic_table_AI/static/js/main.72d00864.js.map",
+    "453.b78a47aa.chunk.js.map": "/periodic_table_AI/static/js/453.b78a47aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.72d00864.js"
+  ]
+}
