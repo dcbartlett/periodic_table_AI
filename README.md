@@ -3,6 +3,8 @@
 
 This is a proof of concept to test AI's ability to produce production-like code.  A containing a log of what the AI generated and what human steps were taken can be found in the [LOG](LOG.md).
 
+You can view the live react app at [Github Hosted Page](https://dcbartlett.github.io/periodic_table_AI/).
+
 AI Used for this Project is ChatGPT 3.5
 
 ## Getting Started with Create React App
