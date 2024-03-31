@@ -2,7 +2,7 @@ name: CI/CD
 
 on:
   push:
-    branches: [ gh-pages ]
+    branches: [ master ]
   pull_request:
     branches: [ master ]
 
@@ -30,7 +30,7 @@ jobs:
         path: |
           **/node_modules
         key: ${{ runner.os }}-${{ hashFiles('**/package-lock.json') }}
-
+        
     - name: Install dependencies
       run: npm install
 
